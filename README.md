@@ -1,4 +1,4 @@
-# Diffuse reflectance spectroscopy for predicting age, species, and insecticide resistance of the malaria mosquito *Anopheles gambiae* s.l.
+# Diffuse reflectance spectroscopy for predicting age, species, and insecticide resistance of *Anopheles gambiae s.l.* under laboratory conditions
 
 Manuscript data and code
 
