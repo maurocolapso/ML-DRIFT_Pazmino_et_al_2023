@@ -1,4 +1,4 @@
-# Diffuse reflectance spectroscopy for predicting age, species, and insecticide resistance of *Anopheles gambiae* s.l. under laboratory conditions
+# Diffuse reflectance spectroscopy for predicting age, species, and insecticide resistance of *Anopheles gambiae s.l.* under laboratory conditions
 
 Mauro Pazmiño Betancourth<sup>1,2,*</sup>, Victor Ochoa-Gutiérrez<sup>z1,3</sup>, Heather M. Ferguson<sup>2</sup>, Mario González-
 Jiménez</sup>4</sup>, Klaas Wynne<sup>4</sup>, Francesco Baldini<sup>2$</sup>, David Childs<sup>1$</sup>
