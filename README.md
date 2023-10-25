@@ -13,7 +13,8 @@ Mauro Pazmiño Betancourth<sup>1,2,*</sup>, Victor Ochoa-Gutiérrez<sup>1,3</sup
 This reporsitory contains the code and jupyternotebooks for analsys of spectral data from the manuscript
 
 ## 1. Data
-Data can be downloaded from the Elighten repository at
+Data can be downloaded from the Elighten repository at https://dx.doi.org/10.5525/gla.researchdata.1517
+
 
 ## 2. Code
 - The code for data preparation and functions for  preprocessing, evaluation, optimization and transformers are located in the source code folder.
