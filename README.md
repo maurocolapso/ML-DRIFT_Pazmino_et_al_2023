@@ -1,18 +1,19 @@
 # Diffuse reflectance spectroscopy for predicting age, species, and insecticide resistance of *Anopheles gambiae s.l.* under laboratory conditions
 
-Mauro Pazmiño Betancourth1,2,*,\br 
-Victor Ochoa-Gutiérrez1,3, Heather M. Ferguson2, Mario González-
-Jiménez4, Klaas Wynne 4, Francesco Baldini2$, David Childs1$
-1 School of Engineering, University of Glasgow, Glasgow, G12 8QQ, UK.
-2 School of Biodiversity, One Health & Veterinary Medicine, University of Glasgow, Glasgow, G12 8QQ, UK.
-3 School of Physics and Astronomy, University of Glasgow, G12 8QQ, UK. 4 School of Chemistry, University of Glasgow, G12 8QQ, UK *mauro.pazminobetancourth@glasgow.ac.uk
-$These authors equally supervised the work
+Mauro Pazmiño Betancourth<sup>1,2,*</sup>, Victor Ochoa-Gutiérrez<sup>1,3</sup>, Heather M. Ferguson<sup>2</sup>, Mario González-Jiménez<sup>4</sup>, Klaas Wynne<sup>4</sup>, Francesco Baldini<sup>2$</sup>, David Childs<sup1$</sup><br>
+<sup>1</sup> School of Engineering, University of Glasgow, Glasgow, G12 8QQ, UK.<br>
+<sup>2</sup> School of Biodiversity, One Health & Veterinary Medicine, University of Glasgow, Glasgow, G12 8QQ, UK.<br>
+<sup>3</sup> School of Physics and Astronomy, University of Glasgow, G12 8QQ, UK.<br>
+<sup>4</sup> School of Chemistry, University of Glasgow, G12 8QQ, UK<br>
+*mauro.pazminobetancourth@glasgow.ac.uk
 
-Manuscript data and code
+<sup>$</sup>These authors equally supervised the work
+
+## Description
+This reporsitory contains the code and jupyternotebooks for analsys of spectral data from the manuscript
 
 ## 1. Data
-- Data is split into features (X) and labels(y). 
-- Data has been balanced for each class. 
+Data can be downloaded from the Elighten repository at
 
 ## 2. Code
 - The code for data preparation and functions for  preprocessing, evaluation, optimization and transformers are located in the source code folder.
