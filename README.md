@@ -12,8 +12,6 @@ Mauro Pazmiño Betancourth<sup>1,2,*</sup>, Victor Ochoa-Gutiérrez<sup>1,3</sup
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1038/s41598-023-45696-x.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 
 
-
-
 ## Description
 This reporsitory contains the code and jupyternotebooks for analsys of spectral data from the manuscript
 
